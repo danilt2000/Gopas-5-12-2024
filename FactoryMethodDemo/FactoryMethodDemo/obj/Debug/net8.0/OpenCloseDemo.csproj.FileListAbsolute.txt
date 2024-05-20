@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\bin\Debug\net8.0\OpenCloseDemo.exe
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\bin\Debug\net8.0\OpenCloseDemo.deps.json
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\bin\Debug\net8.0\OpenCloseDemo.runtimeconfig.json
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\bin\Debug\net8.0\OpenCloseDemo.dll
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\bin\Debug\net8.0\OpenCloseDemo.pdb
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.dll
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\refint\OpenCloseDemo.dll
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.pdb
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\OpenCloseDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\OpenCloseDemo\OpenCloseDemo\obj\Debug\net8.0\ref\OpenCloseDemo.dll

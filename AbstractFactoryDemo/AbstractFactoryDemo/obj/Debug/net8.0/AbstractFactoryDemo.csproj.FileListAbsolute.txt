@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net8.0\AbstractFactoryDemo.exe
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net8.0\AbstractFactoryDemo.deps.json
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net8.0\AbstractFactoryDemo.runtimeconfig.json
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net8.0\AbstractFactoryDemo.dll
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net8.0\AbstractFactoryDemo.pdb
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.dll
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\refint\AbstractFactoryDemo.dll
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.pdb
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\AbstractFactoryDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net8.0\ref\AbstractFactoryDemo.dll

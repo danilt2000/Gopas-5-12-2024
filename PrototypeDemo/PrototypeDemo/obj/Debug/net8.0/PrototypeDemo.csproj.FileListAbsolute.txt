@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.exe
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.deps.json
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.runtimeconfig.json
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.dll
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.pdb
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.dll
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\refint\PrototypeDemo.dll
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.pdb
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\PrototypeDemo\PrototypeDemo\obj\Debug\net8.0\ref\PrototypeDemo.dll

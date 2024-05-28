@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\bin\Debug\net8.0\MementoDemo.exe
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\bin\Debug\net8.0\MementoDemo.deps.json
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\bin\Debug\net8.0\MementoDemo.runtimeconfig.json
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\bin\Debug\net8.0\MementoDemo.dll
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\bin\Debug\net8.0\MementoDemo.pdb
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.dll
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\refint\MementoDemo.dll
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.pdb
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\MementoDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\MementoDemo\MementoDemo\obj\Debug\net8.0\ref\MementoDemo.dll

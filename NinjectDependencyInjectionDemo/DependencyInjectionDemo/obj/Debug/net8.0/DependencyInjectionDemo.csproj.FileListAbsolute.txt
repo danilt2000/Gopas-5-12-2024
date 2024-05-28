@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.exe
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.deps.json
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.runtimeconfig.json
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.dll
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net8.0\DependencyInjectionDemo.pdb
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\net8.0\Ninject.dll
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\Dependen.9EF1400D.Up2Date
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.dll
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\refint\DependencyInjectionDemo.dll
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.pdb
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\DependencyInjectionDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\net8.0\ref\DependencyInjectionDemo.dll

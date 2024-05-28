@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\bin\Debug\net8.0\AdapterAndBridgeDemo.exe
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\bin\Debug\net8.0\AdapterAndBridgeDemo.deps.json
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\bin\Debug\net8.0\AdapterAndBridgeDemo.runtimeconfig.json
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\bin\Debug\net8.0\AdapterAndBridgeDemo.dll
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\bin\Debug\net8.0\AdapterAndBridgeDemo.pdb
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.dll
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\refint\AdapterAndBridgeDemo.dll
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.pdb
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\AdapterAndBridgeDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\AdapterAndBridgeDemo\AdapterAndBridgeDemo\obj\Debug\net8.0\ref\AdapterAndBridgeDemo.dll

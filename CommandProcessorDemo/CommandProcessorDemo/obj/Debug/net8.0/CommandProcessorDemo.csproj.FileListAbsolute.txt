@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\bin\Debug\net8.0\CommandProcessorDemo.exe
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\bin\Debug\net8.0\CommandProcessorDemo.deps.json
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\bin\Debug\net8.0\CommandProcessorDemo.runtimeconfig.json
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\bin\Debug\net8.0\CommandProcessorDemo.dll
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\bin\Debug\net8.0\CommandProcessorDemo.pdb
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.dll
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\refint\CommandProcessorDemo.dll
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.pdb
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\CommandProcessorDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\CommandProcessorDemo\CommandProcessorDemo\obj\Debug\net8.0\ref\CommandProcessorDemo.dll

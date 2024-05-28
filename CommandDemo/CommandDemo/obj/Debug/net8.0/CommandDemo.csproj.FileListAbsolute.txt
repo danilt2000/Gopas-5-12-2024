@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\bin\Debug\net8.0\CommandDemo.exe
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\bin\Debug\net8.0\CommandDemo.deps.json
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\bin\Debug\net8.0\CommandDemo.runtimeconfig.json
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\bin\Debug\net8.0\CommandDemo.dll
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\bin\Debug\net8.0\CommandDemo.pdb
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.dll
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\refint\CommandDemo.dll
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.pdb
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\CommandDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\CommandDemo\CommandDemo\obj\Debug\net8.0\ref\CommandDemo.dll

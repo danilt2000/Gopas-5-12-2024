@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\bin\Debug\net8.0\ProxyAndDecoratorDemo.exe
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\bin\Debug\net8.0\ProxyAndDecoratorDemo.deps.json
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\bin\Debug\net8.0\ProxyAndDecoratorDemo.runtimeconfig.json
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\bin\Debug\net8.0\ProxyAndDecoratorDemo.dll
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\bin\Debug\net8.0\ProxyAndDecoratorDemo.pdb
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.dll
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\refint\ProxyAndDecoratorDemo.dll
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.pdb
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ProxyAndDecoratorDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\ProxyAndDecoratorDemo\ProxyAndDecoratorDemo\obj\Debug\net8.0\ref\ProxyAndDecoratorDemo.dll

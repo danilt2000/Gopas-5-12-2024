@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\bin\Debug\net8.0\InterpreterDemo.exe
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\bin\Debug\net8.0\InterpreterDemo.deps.json
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\bin\Debug\net8.0\InterpreterDemo.runtimeconfig.json
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\bin\Debug\net8.0\InterpreterDemo.dll
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\bin\Debug\net8.0\InterpreterDemo.pdb
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.AssemblyInfo.cs
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.dll
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\refint\InterpreterDemo.dll
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.pdb
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\InterpreterDemo.genruntimeconfig.cache
+C:\Users\Student\source\repos\CompositeDemo\InterpreterDemo\obj\Debug\net8.0\ref\InterpreterDemo.dll
